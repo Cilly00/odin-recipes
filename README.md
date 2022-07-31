@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes - First Project :)
 
 Hi all - writing this before I have started the project so I can reflect on later. 
 
